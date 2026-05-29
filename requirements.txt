@@ -1,0 +1,6 @@
+ccxt
+pandas
+numpy<2.0
+pandas_ta==0.3.14b0
+pyTelegramBotAPI
+setuptools
